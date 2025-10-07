@@ -10,9 +10,7 @@ Originally designed and trained in the OpenAI Agent Builder, this repository hos
 
 - 💬 **Conversational wellness assistant** built with GPT-5  
 - 🧠 **Short-term memory** (retains context within sessions)  
-- ⚙️ **Integrated Guardrails** for PII and safe conversations  
-- 📄 **Optional File Search** to pull tips or quotes from your custom text file  
-- ✅ **User Approval Flow** before any proactive reminders  
+- ⚙️ **Integrated Guardrails** for PII and safe conversations   
 - 🧩 **Exported Agent SDK** for local or backend integration
 
 ---
@@ -39,13 +37,10 @@ Re-publish, then update your local SDK snippet if the agent ID changes.
 Future ideas for enhancement:
 
 Integrate Google Calendar or Microsoft Outlook via MCP connector to schedule real break reminders.
-
 Add voice interaction (Speech-to-Text + Text-to-Speech APIs).
-
 Store daily reflection logs in a secure local or cloud database.
 
 ## 🤝 Contributing
 
 Contributions, bug fixes, and improvements are welcome.
-
 Feel free to fork this repo, submit a pull request, or open an issue.
