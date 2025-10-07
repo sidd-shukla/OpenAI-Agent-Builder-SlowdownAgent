@@ -39,10 +39,13 @@ Re-publish, then update your local SDK snippet if the agent ID changes.
 Future ideas for enhancement:
 
 Integrate Google Calendar or Microsoft Outlook via MCP connector to schedule real break reminders.
+
 Add voice interaction (Speech-to-Text + Text-to-Speech APIs).
+
 Store daily reflection logs in a secure local or cloud database.
 
 ## 🤝 Contributing
 
 Contributions, bug fixes, and improvements are welcome.
+
 Feel free to fork this repo, submit a pull request, or open an issue.
