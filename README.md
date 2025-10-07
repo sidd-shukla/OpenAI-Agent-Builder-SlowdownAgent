@@ -28,19 +28,18 @@ slowdown-agent/
 You can modify the Agent ID inside slowdown_agent.py to point to any Agent you’ve created in your OpenAI workspace.
 To change your agent’s behavior:
 
-Go to your OpenAI Agent Dashboard
-Edit the “Slowdown” Agent’s Instructions or add new tools (Guard Rails, File Search, etc.)
-Re-publish, then update your local SDK snippet if the agent ID changes.
+- Go to your OpenAI Agent Dashboard
+- Edit the “Slowdown” Agent’s Instructions or add new tools (Guard Rails, File Search, etc.)
+- Re-publish, then update your local SDK snippet if the agent ID changes.
 
 ## 🧠 Extending Slowdown
 
 Future ideas for enhancement:
 
-Integrate Google Calendar or Microsoft Outlook via MCP connector to schedule real break reminders.
-Add voice interaction (Speech-to-Text + Text-to-Speech APIs).
-Store daily reflection logs in a secure local or cloud database.
+- Integrate Google Calendar or Microsoft Outlook via MCP connector to schedule real break reminders.
+- Store daily reflection logs in a secure local or cloud database.
 
 ## 🤝 Contributing
 
-Contributions, bug fixes, and improvements are welcome.
-Feel free to fork this repo, submit a pull request, or open an issue.
+- Contributions, bug fixes, and improvements are welcome.
+- Feel free to fork this repo, submit a pull request, or open an issue.
