@@ -17,10 +17,10 @@ Originally designed and trained in the OpenAI Agent Builder, this repository hos
 
 ## 🧱 Project Structure
 
-slowdown-agent/
-│
-├── slowdown_agent.py # Python SDK code generated from OpenAI Agent Builder
-├── README.md # Project documentation (this file)
+- slowdown-agent/
+- │
+- ├── slowdown_agent.py # Python SDK code generated from OpenAI Agent Builder
+- ├── README.md # Project documentation (this file)
 
 
 ## 🧩 Customization
